@@ -6,7 +6,7 @@ A basic profiling script / recommendation engine for Machine learning algorithms
 ## Contributers
 - [Mahesh Patapalli(me!)](https://github.com/sirreajohn)
 - [Siddhant Sehgal](https://github.com/SIDDHANTSEHGAL1198)
-- [Vamshi Reddy](https://github.com/vamshireddykrish)
+- [K Vamshi Reddy](https://github.com/vamshireddykrish)
 ## description
 - ever feel lazy and incomplete while writing code! or maybe have a problem choosing correct ML algorithm for your data. this is where Lumin comes in.
 
